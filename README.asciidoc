@@ -1,0 +1,5 @@
+= Exploring the Go language
+
+To run:
+
+`$ go run herewego.go`

@@ -3,15 +3,4 @@
 == Basics
 To run:
 
-`$ go run herewego.go`
-
-== HTTP Server
-A lightweight http server:
-
-`$ go run zimserver.go`
-
-Navigate to:
-
-`http://localhost:8080`
-`http://localhost:8080/zim`
-`http://localhost:8080/gir`
+`$ go run <filename>.go`

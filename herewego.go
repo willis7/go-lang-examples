@@ -92,4 +92,12 @@ func main() {
     fmt.Println(j)
   }
 
+  yourAge := 18
+
+  if yourAge >= 16 {
+    fmt.Println("you can smoke")
+  } else {
+    fmt.Println("you cant smoke")
+  }
+
 }
